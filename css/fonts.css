@@ -1,0 +1,20 @@
+@font-face {
+	font-family: 'segoe_uiregular';
+	src: url('../fonts/segoeui_0-webfont.eot');
+	src: url('../fonts/segoeui_0-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/segoeui_0-webfont.woff') format('woff'), url('../fonts/segoeui_0-webfont.ttf') format('truetype'), url('../fonts/segoeui_0-webfont.svg#segoe_uiregular') format('svg');
+}
+@font-face {
+	font-family: 'segoe_uibold';
+	src: url('../fonts/segoeuib_0-webfont.eot');
+	src: url('../fonts/segoeuib_0-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/segoeuib_0-webfont.woff') format('woff'), url('../fonts/segoeuib_0-webfont.ttf') format('truetype'), url('../fonts/segoeuib_0-webfont.svg#segoe_uibold') format('svg');
+}
+@font-face {
+	font-family: 'segoe_uilight';
+	src: url('../fonts/segoeuil_0-webfont.eot');
+	src: url('../fonts/segoeuil_0-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/segoeuil_0-webfont.woff') format('woff'), url('../fonts/segoeuil_0-webfont.ttf') format('truetype'), url('../fonts/segoeuil_0-webfont.svg#segoe_uilight') format('svg');
+}
+@font-face {
+	font-family: 'segoe_uisemibold';
+	src: url('../fonts/seguisb_0-webfont.eot');
+	src: url('../fonts/seguisb_0-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/seguisb_0-webfont.woff') format('woff'), url('../fonts/seguisb_0-webfont.ttf') format('truetype'), url('../fonts/seguisb_0-webfont.svg#segoe_uisemibold') format('svg');
+}

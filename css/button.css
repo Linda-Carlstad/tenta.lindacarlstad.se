@@ -1,0 +1,57 @@
+.blue_btn a, button {
+	display: block;
+	background: #38bdf0;
+	box-shadow: 0 -3px 0 #0c8ce2 inset;
+	-webkit-box-shadow: 0 -3px 0 #0c8ce2 inset;
+	-moz-box-shadow: 0 -3px 0 #0c8ce2 inset;
+	text-shadow: 1px 1px 0 #30a1cc;
+	padding: 15px 30px;
+	color: #fff;
+	line-height: 20px;
+	-webkit-appearance: none;
+	text-align: center;
+	text-decoration: none;
+}
+.blue_btn a:hover, button:hover {
+	transition: none;
+	background: #f09638;
+	text-shadow: none;
+	box-shadow: 0 -3px 0 #d18200 inset;
+	-webkit-box-shadow: 0 -3px 0 #d18200 inset;
+	-moz-box-shadow: 0 -3px 0 #d18200 inset;
+}
+.black_btn a {
+	display: block;
+	background: #2f383d;
+	-webkit-appearance: none;
+	box-shadow: 0 -3px 0 #030404 inset;
+	-webkit-box-shadow: 0 -3px 0 #030404 inset;
+	-moz-box-shadow: 0 -3px 0 #030404 inset;
+	text-shadow: 1px 1px 0 #293035;
+	padding: 15px 30px;
+	color: #fff;
+	line-height: 20px;
+	text-align: center;
+	text-decoration: none;
+}
+.black_btn a:hover {
+	transition: none;
+	text-shadow: 1px 1px 0 #30a1cc;
+	background: #38bdf0;
+	box-shadow: 0 -3px 0 #0c8ce2 inset;
+	-webkit-box-shadow: 0 -3px 0 #0c8ce2 inset;
+	-moz-box-shadow: 0 -3px 0 #0c8ce2 inset;
+}
+.whitebtn a {
+	display: block;
+	background: #fff;
+	padding: 15px 30px;
+	color: #1a1a1a;
+	line-height: 20px;
+	text-align: center;
+	text-decoration: none;
+}
+.whitebtn a:hover {
+	color: #fff;
+	background: #3cb5e3;
+}
